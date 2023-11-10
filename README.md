@@ -1,6 +1,6 @@
 # Netflix Data Miner
 
-## Project Overview
+## Overview
 This data mining project focuses on extracting valuable insights from the Netflix dataset.
 The project is divided into three main phases: 
 - Preprocessing
