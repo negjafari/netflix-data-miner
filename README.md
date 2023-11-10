@@ -7,6 +7,8 @@ The project is divided into three main phases:
 - Extracting Frequent Patterns
 - Clustering and Classification
 
+## Project Structure
+
 ### Phase 1: Preprocessing
 In this phase, the raw data is transformed into a structured format, and various preprocessing steps are applied:
 
